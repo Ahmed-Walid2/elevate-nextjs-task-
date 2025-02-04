@@ -4,6 +4,6 @@ Project Description:
 
 2- Product Details Page: Each product is clickable, which navigates the user to a detailed product page. This page shows the product’s name, full description, image, price, and category, all fetched from the API.
 
-Live Demo:
+Live Demo: https://elevate-nextjs-task.vercel.app/
 
-Github Repo:
+Github Repo: https://github.com/Ahmed-Walid2/elevate-nextjs-task-
